@@ -1,0 +1,60 @@
+{
+  "messages": [
+    {
+      "id": "1",
+      "name": "Alexandra carvalho",
+      "message": "Do more of what you love.",
+      "time": "3m ago",
+      "unread": 3,
+      "avatar": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": "2",
+      "name": "Daniel Dante",
+      "message": "Do your own thing.",
+      "time": "5m ago",
+      "unread": 1,
+      "avatar": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": "3",
+      "name": "kakashi sensei",
+      "message": "Kindness is beautiful.",
+      "time": "1h ago",
+      "unread": 2,
+      "avatar": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": "4",
+      "name": "Arthur Carlos",
+      "message": "Live your purpose.",
+      "time": "2h ago",
+      "unread": 1,
+      "avatar": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+      "id": "5",
+      "name": "Olivia Wilson",
+      "message": "You got this.",
+      "time": "5h ago",
+      "unread": 0,
+      "avatar": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": "6",
+      "name": "Rachelle Beaudry",
+      "message": "You're wonderful.",
+      "time": "Yesterday",
+      "unread": 0,
+      "avatar": "https://i.pravatar.cc/150?img=9"
+    },
+    {
+      "id": "7",
+      "name": "Soo Jin Ae",
+      "message": "Keep it simple.",
+      "time": "Yesterday",
+      "unread": 0,
+      "avatar": "https://i.pravatar.cc/150?img=8"
+    }
+  ]
+}
